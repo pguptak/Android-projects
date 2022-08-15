@@ -1,0 +1,18 @@
+Motivation
+
+Developments in medical science has provided new ways in which care can be taken of people suffering from the risk of heart failure at reduced medical expenses such as 
+through wearable sensors. It is more efficient than the traditional health monitoring methods such as, in person visits to the medical practitioners, clinics, etc. 
+Unfortunately wearable sensors are useful to measure quantitative parameters such as blood pressure, heart rate but not the ones that are qualitative in nature like ease of 
+respiration, pain, etc. The values of qualitative parameters are generally expressed by a sick person in the form of ‘words’. In a real life scenario medical experts suggest 
+plausible medical tests/ treatment to a patient using their experience based on his/ her feedback in terms of ‘words’. So, we have proposed a new approach, called the heart 
+monitoring through perceptual computing (HMT Per-C), that assesses the medical condition of the person (under the risk of heart failure) by processing the user feedback in 
+terms of ‘words’ and generates recommendations about the medical attention needed to be given to him/ her. HMT Per-C complements the data obtained from the devices like 
+oximeter, etc. and does not replace them. HMT Per-C is based on the technique of perceptual computing, which is a computing with words (CWW) technique that models ‘words’ 
+using the interval type-2 fuzzy sets. An outcome of the present work is the ready to use mobile app, “HMT Per-C”, that complements the data obtained from the devices like 
+oximeter, etc. but does not replace them.
+
+App for download
+HMT Per-C is available in the form of ready to use mobile app. Download the app from the repository as .apk file. You will be required to install the app by making changes to 
+the security settings of your smartphone. Allow installation by unknown sources. Once installed, you can run the app. On the welcome screen, you will be given a small 
+introduction of the app. Press get started and you will be directed to next page. There, select one word corresponding to each system criteria and press "Your Condition".
+Press "exit" to close the app.
